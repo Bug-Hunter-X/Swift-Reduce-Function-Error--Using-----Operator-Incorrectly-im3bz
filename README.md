@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the `reduce` function in Swift.  The example shows how attempting to directly use the `+` operator with an array of numbers within `reduce` leads to a compiler error.  The solution illustrates the correct way to achieve the sum using a closure.
